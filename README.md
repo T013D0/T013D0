@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Toledo</h1>
 <h3 align="center">A passionate backend developer from chile 🇨🇱</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t013d0&label=Profile%20views&color=0e75b6&style=flat" alt="t013d0" /> </p>
+
 - 🔭 I’m currently working on **Personal project**
 
 - 🌱 I’m currently learning **Django**
